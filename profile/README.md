@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="./iste.png" width="200" alt="ISTE Thapar">
+# <img src="../assets/iste.png" width="200" alt="ISTE Thapar">
 
 **Building a culture of technology, innovation, and open source at Thapar Institute of Engineering & Technology.**
 
